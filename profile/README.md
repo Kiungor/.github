@@ -7,7 +7,7 @@ Visit our website  [here](https://kiungor.com)
 <div align= "center">
 
 
-![Image](https://github.com/Kiungor/.github/profile/blob/master/logo.png?raw=true)
+![Image](https://github.com/Kiungor/.github/blob/main/profile/logo.png?raw=true)
 
 <!-- https://github.com/Kiungor/.github/profile/blob/master/logo.png -->
 
